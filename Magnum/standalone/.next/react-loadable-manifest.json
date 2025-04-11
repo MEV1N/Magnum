@@ -1,0 +1,69 @@
+{
+  "app\\admin\\add-news\\page.tsx -> firebase/firestore": {
+    "id": 5317,
+    "files": [
+      "static/chunks/bc9e92e6.d2b0621461c02d5c.js",
+      "static/chunks/612.6a8f42f1e896c32d.js",
+      "static/chunks/577.d36a70d936454ca1.js"
+    ]
+  },
+  "app\\admin\\delete-news\\[id]\\page.tsx -> firebase/firestore": {
+    "id": 5317,
+    "files": [
+      "static/chunks/bc9e92e6.d2b0621461c02d5c.js",
+      "static/chunks/612.6a8f42f1e896c32d.js",
+      "static/chunks/577.d36a70d936454ca1.js"
+    ]
+  },
+  "app\\admin\\page.tsx -> firebase/firestore": {
+    "id": 5317,
+    "files": [
+      "static/chunks/bc9e92e6.d2b0621461c02d5c.js",
+      "static/chunks/612.6a8f42f1e896c32d.js",
+      "static/chunks/577.d36a70d936454ca1.js"
+    ]
+  },
+  "app\\news\\[slug]\\page.tsx -> firebase/firestore": {
+    "id": 5317,
+    "files": [
+      "static/chunks/bc9e92e6.d2b0621461c02d5c.js",
+      "static/chunks/612.6a8f42f1e896c32d.js",
+      "static/chunks/577.d36a70d936454ca1.js"
+    ]
+  },
+  "app\\news\\page.tsx -> firebase/firestore": {
+    "id": 5317,
+    "files": [
+      "static/chunks/bc9e92e6.d2b0621461c02d5c.js",
+      "static/chunks/612.6a8f42f1e896c32d.js",
+      "static/chunks/577.d36a70d936454ca1.js"
+    ]
+  },
+  "lib\\firebase-config.ts -> firebase/app": {
+    "id": 3915,
+    "files": [
+      "static/chunks/612.6a8f42f1e896c32d.js",
+      "static/chunks/915.8a16569673b86e00.js"
+    ]
+  },
+  "lib\\firebase-config.ts -> firebase/firestore": {
+    "id": 5317,
+    "files": [
+      "static/chunks/bc9e92e6.d2b0621461c02d5c.js",
+      "static/chunks/612.6a8f42f1e896c32d.js",
+      "static/chunks/577.d36a70d936454ca1.js"
+    ]
+  },
+  "node_modules\\next\\dist\\client\\index.js -> ../pages/_app": {
+    "id": 472,
+    "files": [
+      "static/chunks/472.a3826d29d6854395.js"
+    ]
+  },
+  "node_modules\\next\\dist\\client\\index.js -> ../pages/_error": {
+    "id": 9341,
+    "files": [
+      "static/chunks/341.2903e54d3da731c1.js"
+    ]
+  }
+}

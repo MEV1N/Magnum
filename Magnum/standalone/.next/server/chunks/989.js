@@ -1,0 +1,1 @@
+"use strict";exports.id=989,exports.ids=[989],exports.modules={67989:(p,e,s)=>{s.d(e,{getApp:()=>i.Sx,getApps:()=>i.Dk,initializeApp:()=>i.Wp});var i=s(27728);(0,i.KO)("firebase","11.6.0","app")}};

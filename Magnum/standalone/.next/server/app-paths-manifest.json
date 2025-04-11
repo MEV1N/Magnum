@@ -1,0 +1,12 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/revalidate/route": "app/api/revalidate/route.js",
+  "/news/[slug]/page": "app/news/[slug]/page.js",
+  "/news/page": "app/news/page.js",
+  "/page": "app/page.js",
+  "/admin/add-news/page": "app/admin/add-news/page.js",
+  "/admin/delete-news/[id]/page": "app/admin/delete-news/[id]/page.js",
+  "/admin/login/page": "app/admin/login/page.js",
+  "/admin/page": "app/admin/page.js",
+  "/admin/edit-news/[id]/page": "app/admin/edit-news/[id]/page.js"
+}
